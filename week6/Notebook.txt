@@ -1,0 +1,3 @@
+Run SELECT * FROM Department; to view the existing department IDs.
+Check that the dept_id values in your INSERT INTO Lecturer statement match those in the Department table.
+Replace any invalid IDs with existing ones.
