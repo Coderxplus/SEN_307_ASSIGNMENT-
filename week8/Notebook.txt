@@ -1,0 +1,1 @@
+10:58:06	ALTER TABLE course ADD CONSTRAINT chk_credit_units CHECK (credit_units BETWEEN 1 AND 6)	Error Code: 3822. Duplicate check constraint name 'chk_credit_units'.	0.000 sec
